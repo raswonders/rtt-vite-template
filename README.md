@@ -1,4 +1,4 @@
-# Vite + React + TypeScript + Tailwindcss + shadcnui
+# Vite + React + TypeScript + Shadcn/ui
 
 ## Install
 
